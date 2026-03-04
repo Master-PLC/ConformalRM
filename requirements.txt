@@ -4,6 +4,7 @@
 # For MAC: pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 # pip install ../pkgs/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 # pip install ../pkgs/flashinfer_python-0.2.2.post1+cu124torch2.6-cp38-abi3-linux_x86_64.whl
+# git clone https://github.com/Verified-Intelligence/auto_LiRPA && cd auto_LiRPA && pip install -e .
 # pip install -r requirements.txt
 
 accelerate
